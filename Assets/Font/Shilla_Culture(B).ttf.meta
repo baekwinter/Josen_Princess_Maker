@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d8be09ec09ca2db429c32a372a9e8204
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Shilla_Culture(B)
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b222efd644c547e4794e4ece3a112b7c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
